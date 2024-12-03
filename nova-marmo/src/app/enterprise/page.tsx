@@ -74,6 +74,68 @@ export default function Empresa() {
           />
         </div>
       </div>
+
+      {/* Parcerias */}
+      <div className="mt-16">
+        <h2 className="text-3xl font-semibold text-center text-gray-800 mb-8">Nossos Parceiros</h2>
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-8">
+          <div className="flex justify-center">
+            <Image
+              src="/path/to/logo1.png"
+              alt="Parceiro 1"
+              width={150}
+              height={150}
+              className="max-w-full h-auto"
+            />
+          </div>
+          <div className="flex justify-center">
+            <Image
+              src="/path/to/logo2.png"
+              alt="Parceiro 2"
+              width={150}
+              height={150}
+              className="max-w-full h-auto"
+            />
+          </div>
+          <div className="flex justify-center">
+            <Image
+              src="/path/to/logo3.png"
+              alt="Parceiro 3"
+              width={150}
+              height={150}
+              className="max-w-full h-auto"
+            />
+          </div>
+          <div className="flex justify-center">
+            <Image
+              src="/path/to/logo4.png"
+              alt="Parceiro 4"
+              width={150}
+              height={150}
+              className="max-w-full h-auto"
+            />
+          </div>
+          <div className="flex justify-center">
+            <Image
+              src="/path/to/logo5.png"
+              alt="Parceiro 5"
+              width={150}
+              height={150}
+              className="max-w-full h-auto"
+            />
+          </div>
+          <div className="flex justify-center">
+            <Image
+              src="/path/to/logo6.png"
+              alt="Parceiro 6"
+              width={150}
+              height={150}
+              className="max-w-full h-auto"
+            />
+          </div>
+        </div>
+      </div>
+
     </section>
   );
 }
