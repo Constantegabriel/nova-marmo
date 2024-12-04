@@ -81,7 +81,7 @@ export default function Empresa() {
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-8">
           <div className="flex justify-center">
             <Image
-              src="/path/to/logo1.png"
+              src="/Image/parc1.png"
               alt="Parceiro 1"
               width={150}
               height={150}
@@ -90,7 +90,7 @@ export default function Empresa() {
           </div>
           <div className="flex justify-center">
             <Image
-              src="/path/to/logo2.png"
+              src="/Image/parc2.jpg"
               alt="Parceiro 2"
               width={150}
               height={150}
@@ -99,7 +99,7 @@ export default function Empresa() {
           </div>
           <div className="flex justify-center">
             <Image
-              src="/path/to/logo3.png"
+              src="/Image/parc1.png"
               alt="Parceiro 3"
               width={150}
               height={150}
@@ -108,7 +108,7 @@ export default function Empresa() {
           </div>
           <div className="flex justify-center">
             <Image
-              src="/path/to/logo4.png"
+              src="/Image/parc2.jpg"
               alt="Parceiro 4"
               width={150}
               height={150}
@@ -117,7 +117,7 @@ export default function Empresa() {
           </div>
           <div className="flex justify-center">
             <Image
-              src="/path/to/logo5.png"
+              src="/Image/parc1.png"
               alt="Parceiro 5"
               width={150}
               height={150}
@@ -126,7 +126,7 @@ export default function Empresa() {
           </div>
           <div className="flex justify-center">
             <Image
-              src="/path/to/logo6.png"
+              src="/Image/parc2.jpg"
               alt="Parceiro 6"
               width={150}
               height={150}
